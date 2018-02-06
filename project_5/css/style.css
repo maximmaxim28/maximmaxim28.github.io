@@ -1,0 +1,21 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+img{
+	width: 250px; 
+}
+#example_1{
+	height: 500px;
+	background-image: url(../img/bj.jpg);
+	background-position: top center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#example_2{
+	background-image: url(../img/pattern.png);
+	background-repeat: repeat;
+}
+p,h2#footer{
+	color: #fff;
+}
